@@ -1,2 +1,2 @@
-# my-age
+# mypage
 This is my personal page
